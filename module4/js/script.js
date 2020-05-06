@@ -1,4 +1,4 @@
-var names = ["Anna", "John", "Jason", "Henna", "Jack", "Liam", "Paula",  "Henry"];
+var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula",  "Laura", "Jim"];
 
 
 for (name in names)
